@@ -1,0 +1,293 @@
+body{
+    width: 1440px;
+    background: #E5E5E5;
+    position: absolute;
+}
+nav{
+    height: 120px;
+    background-color: black;
+    opacity: 50%;
+    position: sticky;
+   
+}
+
+
+    img{
+     margin-left: 104px;
+    }
+    .search{
+            height: 48px;
+            width: 443px;
+            border-radius: 8px;
+            
+    margin-left: 24px;
+    }
+   .category{
+    font-family: 'Montserrat SemiBold';
+    font-size: 16px;
+    line-height: 32px;
+    /* identical to box height, or 200% */
+
+
+    /* Text/Tittle */
+
+    color: white;
+   }
+    form{
+        margin-left: 24px;
+        display: flex;
+        gap: 16px;
+    }    
+
+    .become{
+        height: 32px;
+        width: 158px;
+        left: 898px;
+        top: 44px;
+        border-radius: nullpx;
+        color: white;
+        &:hover{
+            color: white;
+        }
+    }
+    .btn{
+    width: 129px;
+    height: 48px;
+    left: 1207px;
+    top: 36px;
+
+    /* Primary/Pink */
+
+    border-radius: 8px;
+    border: 1px solid white;
+    border-radius: 8px;
+    color: white;
+    &:hover{
+        color: white;
+        
+        background: #F72585;
+        border-style: none;
+    }
+    }
+    .secondlast{
+        width: 1440px;
+        height: 320px;
+        background-color: black;
+    opacity: 50%;
+    .secondl{
+        font-family: 'Montserrat SemiBold';
+        font-size: 16px;
+        line-height: 32px;
+        /* identical to box height, or 200% */
+        
+        
+        /* Text/Disable */
+        
+        color: #E6E6E6;
+        margin-left: 104px;
+        display: inline-block;
+        text-decoration: none;
+        margin-top: 20px;
+        
+    }
+    .seconl2{
+        font-family: 'Montserrat SemiBold';
+        font-size: 16px;
+        line-height: 32px;
+        /* identical to box height, or 200% */
+        
+        
+        /* Text/Disable */
+        
+        color: #E6E6E6;
+        text-decoration: none;
+    }
+    .latst{
+        font-family: 'Rubik';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 64px;
+        line-height: 88px;
+        /* identical to box height, or 138% */
+
+
+        /* Text/white */
+
+        color: #FFFFFF;
+        display: block;
+        margin-left: 104px;
+        margin-top: 64px;
+
+    }
+    }
+    .blogmain{
+        margin-top: 96px;
+        width: 1440px;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 56px;
+        .leftonesblog{
+            max-width: 50%;
+        }
+        .leftimgb{
+            max-width: 50%;
+
+        }
+        .rightonesbp{
+            width: 720px;
+           max-width:  50%;
+            margin-left: 64px;
+
+        }
+        .firstpb{
+            height: 93px;
+            width: 452px;
+            margin-left: 64px;
+
+            border-radius: nullpx;
+            font-family: 'Rubik';
+            font-style: normal;
+            font-weight: 700;
+            font-size: 32px;
+            line-height: 48px;
+            /* or 150% */
+
+            text-transform: capitalize;
+            font-feature-settings: 'pnum' on, 'lnum' on;
+
+            /* Text/Tittle */
+
+            color: #1C3554;
+            display: block;
+
+        }
+        .loremb{
+            height: 216px;
+            width: 552px;
+            left: 783px;
+            top: 697px;
+            border-radius: nullpx;
+            font-family: 'Montserrat';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 27px;
+            /* or 169% */
+
+
+            /* Text/Body */
+
+            color: #808080;
+            margin-left: 64px;
+            margin-top: 16px;
+            display: block;
+        }
+        .bbbb{
+            width: 153px;
+            height: 56px;
+            left: 783px;
+            top: 985px;
+
+            /* Primary/Pink */
+
+            background: #F72585;
+            border-radius: 8px;
+            font-family: 'Montserrat SemiBold';
+font-size: 16px;
+line-height: 32px;
+/* identical to box height, or 200% */
+
+
+/* Text/white */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+border-style: none;
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin-left: 64px;
+        }
+    }
+.containerfooter{
+        background: #021934;
+    border-radius: 8px;
+    margin-top: 20px;
+    }
+    .birinchif{
+        margin-top: 80px;
+        margin-left: 68px;
+        
+    
+    }
+    .loremn{
+        height: 81px;
+    width: 450px;
+    border-radius: nullpx;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    color: #FFFFFF;
+    display: inline-block;
+    opacity: 80%;
+    }
+    .navl{
+        font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    /* identical to box height, or 169% */
+    
+    text-align: center;
+    
+    /* Text/white */
+    
+    color: #FFFFFF;
+    opacity: 80%;
+    text-decoration: none;
+    margin-top: 50px;
+    
+    }
+    .blabla{
+        font-family: 'Montserrat SemiBold';
+    font-size: 16px;
+    line-height: 32px;
+    /* identical to box height, or 200% */
+    
+    
+    /* Text/white */
+    
+    color: #FFFFFF;
+    text-decoration: none;
+    }
+    .thelast{
+        font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 27px;
+    /* identical to box height, or 169% */
+    
+    text-align: right;
+    
+    /* Text/white */
+    
+    color: #FFFFFF;
+    display: inline-block;
+    opacity: 80%;
+    margin-right: 103px;
+    
+    }
+    .thelastt{
+        text-decoration: none;
+        font-weight: 1000px;
+        width: 100px;
+        height: 100px;
+        background-color: red;
+    }
